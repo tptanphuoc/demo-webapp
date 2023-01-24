@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/AssignmentBefore">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DataSource" type="javax.sql.DataSource" url="jdbc:sqlserver://assignmentprj.database.windows.net:1433;database=AssignmentDB;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;" username="tanphuoc@assignmentprj" password="Phuoc2682002">
+    </Resource>
+</Context>
